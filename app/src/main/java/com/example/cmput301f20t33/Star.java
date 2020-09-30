@@ -1,4 +1,5 @@
 package com.example.cmput301f20t33;
 
-public class Star {
+public class Star extends Shape {
+
 }
